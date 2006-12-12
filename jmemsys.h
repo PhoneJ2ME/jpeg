@@ -41,7 +41,7 @@
  */
 
 
-/* Short forms of external names for systems with some linkers. */
+/* Short forms of external names for systems with brain-damaged linkers. */
 
 #ifdef NEED_SHORT_EXTERNAL_NAMES
 #define jm_jpeg_get_small		jGetSmall
